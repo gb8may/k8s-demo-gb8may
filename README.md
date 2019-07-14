@@ -1,15 +1,11 @@
 # k8s-demo-gb8may
+
 Demo using Kubernetes with Nginx Ingress
 
-Cluster was created by using this command
+Create your cluster using this script:
 
-az aks create \
-    --resource-group gb8mayRG \
-    --name gb8mayaks \
-    --node-count 2 \
-    --enable-addons monitoring \
-    --generate-ssh-keys
+aks-create.sh
 
-To start you Kubernetes dashboard:
+Start you Kubernetes dashboard using this script:
 
 bash k8s-dashboard.sh
