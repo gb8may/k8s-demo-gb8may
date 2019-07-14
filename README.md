@@ -9,3 +9,7 @@ az aks create \
     --node-count 2 \
     --enable-addons monitoring \
     --generate-ssh-keys
+
+To start you Kubernetes dashboard:
+
+bash k8s-dashboard.sh
