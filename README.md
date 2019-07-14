@@ -8,4 +8,8 @@ aks-create.sh
 
 Start you Kubernetes dashboard using this script:
 
-bash k8s-dashboard.sh
+k8s-dashboard.sh
+
+Build you app using this script:
+
+app-build.sh
