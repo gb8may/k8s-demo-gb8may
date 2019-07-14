@@ -1,7 +1,6 @@
 ---
 # Building a demo app on Azure with AKS using Nginx-Ingress
 > by Mayara Gouveia - gb8may@gmail.com
----
 
 Demo using Kubernetes with Nginx Ingress
 
