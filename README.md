@@ -1,5 +1,5 @@
 ---
-# k8s-demo-gb8may
+# Building a demo application on Azure with AKS using Nginx-Ingress
 
 Demo using Kubernetes with Nginx Ingress
 
