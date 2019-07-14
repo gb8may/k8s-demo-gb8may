@@ -10,8 +10,8 @@ Build you app using this script:
 
 app-build.sh
 
-# In our example, we use the service type NodePort instead of LoadBalancer.
-# Nginx-Ingress will work as a LoadBalancer for us.
+In our example, we use the service type NodePort instead of LoadBalancer.
+Nginx-Ingress will work as a LoadBalancer for us.
 
 Start you Kubernetes dashboard using this script:
 
