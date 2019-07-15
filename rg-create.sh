@@ -1,7 +1,10 @@
 #!/bin/bash
-#
-# Author: Mayara Gouveia
-# Contact: gb8may@gmail.com
+
+###########################################
+#         Autor: Mayara Gouveia           #
+#           gb8may@gmail.com              #
+#              Release 1.0                #
+###########################################
 
 
 read -p "What name should i use in your ResourceGroup?" RG
