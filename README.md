@@ -21,3 +21,7 @@ Start you Kubernetes dashboard using this script:
 ```
 k8s-dashboard.sh
 ```
+Get informations about your application's network:
+```
+ip_app_check.sh
+
