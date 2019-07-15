@@ -2,7 +2,7 @@
 # Building a demo app on Azure with AKS using Nginx-Ingress
 > by Mayara Gouveia - gb8may@gmail.com
 
-If you need, create a resource group using:
+Create a resource group running this script:
 ```
 rg-create.sh
 ```
